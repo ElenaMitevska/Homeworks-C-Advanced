@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|c:\\users\\elena\\desktop\\homeworks c# advanced\\class 02 homework\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|c:\\users\\elena\\desktop\\homeworks c# advanced\\class 02 homework\\task1\\task1\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|solutionrelative:task1\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|c:\\users\\elena\\desktop\\homeworks c# advanced\\class 02 homework\\task1\\task1\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|solutionrelative:task1\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|c:\\users\\elena\\desktop\\homeworks c# advanced\\class 02 homework\\task1\\task1\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0D12E9-FEEB-47B5-9451-B5569359FC0E}|Task1\\Task1.csproj|solutionrelative:task1\\isearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISearch.cs",
+              "DocumentMoniker": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\ISearch.cs",
+              "RelativeDocumentMoniker": "Task1\\ISearch.cs",
+              "ToolTip": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\ISearch.cs",
+              "RelativeToolTip": "Task1\\ISearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:57:53.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\Document.cs",
+              "RelativeDocumentMoniker": "Task1\\Document.cs",
+              "ToolTip": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\Document.cs",
+              "RelativeToolTip": "Task1\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:59:44.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\WebPage.cs",
+              "RelativeDocumentMoniker": "Task1\\WebPage.cs",
+              "ToolTip": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\WebPage.cs",
+              "RelativeToolTip": "Task1\\WebPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:00:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Elena\\Desktop\\Homeworks C# Advanced\\Class 02 Homework\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:46:32.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
